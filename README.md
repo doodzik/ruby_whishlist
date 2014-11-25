@@ -1,4 +1,4 @@
-##my ruby 3 whishlist
+##my ruby whishlist
 
 - [Conversion Typing](https://github.com/doodzik/rubysierung)
 - [Pattern Matching](https://github.com/doodzik/defp)
